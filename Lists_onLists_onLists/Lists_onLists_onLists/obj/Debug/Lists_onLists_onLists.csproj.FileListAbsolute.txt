@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\bin\Debug\Lists_onLists_onLists.exe.config
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\bin\Debug\Lists_onLists_onLists.exe
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\bin\Debug\Lists_onLists_onLists.pdb
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\obj\Debug\Lists_onLists_onLists.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\obj\Debug\Lists_onLists_onLists.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\obj\Debug\Lists_onLists_onLists.exe
+C:\Users\rtoles\Desktop\List_on_list\Lists_onLists_onLists\Lists_onLists_onLists\obj\Debug\Lists_onLists_onLists.pdb
